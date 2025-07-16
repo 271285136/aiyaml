@@ -17,7 +17,7 @@ AIYAML SDK 是一个模块化的Go语言库，专门用于处理AI服务返回�
 ## 安装
 
 ```bash
-go get github.com/aiyamlsdk/aiyaml
+go get github.com/271285136/aiyaml
 ```
 
 ## 快速开始
@@ -30,7 +30,7 @@ package main
 import (
     "context"
     "fmt"
-    "github.com/aiyamlsdk/aiyaml"
+    "github.com/271285136/aiyaml"
 )
 
 func main() {
@@ -56,7 +56,7 @@ package main
 import (
     "context"
     "fmt"
-    "github.com/aiyamlsdk/aiyaml"
+    "github.com/271285136/aiyaml"
 )
 
 func main() {
@@ -83,7 +83,7 @@ func main() {
 package main
 
 import (
-    "github.com/aiyamlsdk/aiyaml"
+    "github.com/271285136/aiyaml"
 )
 
 func main() {
@@ -121,7 +121,7 @@ package main
 
 import (
     "context"
-    "github.com/aiyamlsdk/aiyaml"
+    "github.com/271285136/aiyaml"
 )
 
 func main() {
@@ -149,7 +149,7 @@ package main
 
 import (
     "context"
-    "github.com/aiyamlsdk/aiyaml"
+    "github.com/271285136/aiyaml"
 )
 
 // 自定义日志实现
@@ -197,7 +197,7 @@ package main
 import (
     "context"
     "fmt"
-    "github.com/aiyamlsdk/aiyaml"
+    "github.com/271285136/aiyaml"
 )
 
 func main() {
@@ -232,7 +232,7 @@ package main
 import (
     "context"
     "fmt"
-    "github.com/aiyamlsdk/aiyaml"
+    "github.com/271285136/aiyaml"
 )
 
 func main() {
